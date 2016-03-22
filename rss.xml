@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Dawn Marie]]></title>
         <description><![CDATA[Dawn Marie]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dawn-marie/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 13:52:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Mar 2016 15:35:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dawn-marie/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbb469d6-d9d4-494f-8b62-34156ff5fe0f.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/dawn-marie/897c0ee7-fa0b-494f-b56d-10f0d3e40941/index.html</link>
+            <guid isPermaLink="false">897c0ee7-fa0b-494f-b56d-10f0d3e40941</guid>
+            <pubDate>Tue, 22 Mar 2016 15:35:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3489edbe-db5a-4e1a-b82c-0ce242738403.jpg">]]></description>
-            <link>undefined2140e3b6-920e-4593-b483-e2957c7cc625/index.html</link>
+            <link>https://thegrid.ai/dawn-marie/2140e3b6-920e-4593-b483-e2957c7cc625/index.html</link>
             <guid isPermaLink="false">2140e3b6-920e-4593-b483-e2957c7cc625</guid>
             <pubDate>Tue, 22 Mar 2016 13:52:44 GMT</pubDate>
         </item>
